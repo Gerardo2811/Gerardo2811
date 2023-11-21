@@ -1,5 +1,5 @@
 # 💫 About Me:
-✔️Actually I'm working on my own projects and University projects.👨‍💻<br>✔️I'm learning Data Science, Machine Learning, everything about AI; with Harvard University and other institutions.📚<br>✔️Addicional I'm learning about Flwt with Python.📚<br>
+✔️Actually I'm working on my own projects and University projects.👨‍💻<br>✔️I'm learning Data Science, Machine Learning, everything about AI; with Harvard University and other institutions.📚<br>✔️Addicional I'm learning about Flet with Python.📚<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gerardo-montoya-dfr/) 
